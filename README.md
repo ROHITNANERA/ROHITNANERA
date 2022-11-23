@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ROHITNANERA.
-- 👀 I’m interested in Python programming, Django RestFramework, and Ethical Hacking.
+- 👀 I’m interested in Python programming,Django, Django RestFramework, and Ethical Hacking.
 - 🌱 I’m currently learning DRF.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
